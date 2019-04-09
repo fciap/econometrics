@@ -1,3 +1,5 @@
+# Week 1
+
 library('ggplot2')
 data <- c(2.1, 2.5, 1.9, 1.5, 2)
 predictions <- c(2, 2, 2, 2, 2)
